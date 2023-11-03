@@ -3,5 +3,6 @@ Para praticar o CSS na estilização de tabelas, personalizei uma com o tema do 
 
 Tecnologias utilizadas:
 
--HTML5
--CSS3
+- HTML5
+
+- CSS3
